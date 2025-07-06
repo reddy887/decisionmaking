@@ -7,7 +7,7 @@ class nestedif
        {
           if (num<20)
 	   {  
-	      System.out.println(" the number is more then 20");
+	      System.out.println(num+" the number is more then 20");
 	    }
 	   else
 	    {
