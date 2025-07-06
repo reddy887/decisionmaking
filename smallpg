@@ -5,7 +5,7 @@ class dec
           num=23;
 	  if (num==0)
 	      {
-	         System.out.println("this a zero");
+	         System.out.println("this a zero and the number is "+num);
 	       }
 	   else
 	      {
