@@ -15,5 +15,8 @@ public class elseifusing
         {
             System.err.println(check+" is equal to cloudy");
         }
+        else {
+            System.out.println("the value is not equal");
+        }
     }
 }
